@@ -28,6 +28,7 @@ Otherwise, it is not a palindrome.
 
 
 PROGRAM
+
 n=int(input())
 
 rev=0
